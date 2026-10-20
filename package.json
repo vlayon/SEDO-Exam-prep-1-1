@@ -1,0 +1,12 @@
+{
+  "name": "sedo-exam-prep-1-1",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "start \"\" tests.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
